@@ -1,4 +1,5 @@
-name: Security audit
+name: Security 
+audit
 
 permissions:
   contents: read
